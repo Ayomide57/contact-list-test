@@ -8,11 +8,10 @@ import {
 import store from './core/services/redux/store';
 
 
-
 function App() {
   return (
     <Provider store={store}>
-      <Router>
+      <Router history={history}>
         <AppRouter />
       </Router>
     </Provider>

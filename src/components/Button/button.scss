@@ -1,0 +1,33 @@
+.ButtonA{
+    color: #46139f;
+    border-color: #46139f;
+    background-color: white;
+    margin-right: 1rem;
+}
+
+.ButtonA:hover{
+        background-color: #46139f;
+        border-color: #46139f;
+}
+
+.ButtonB{
+    color: #ff7f50;
+    border-color: #ff7f50;
+    background-color: white;
+}
+
+.ButtonB:hover {
+    background-color: #ff7f50;
+    border-color: #ff7f50;
+}
+
+.ButtonC{
+    background-color: white;
+    border-color: #46139f;
+    color: #46139f
+}
+
+.custom-btn {
+  background-color: blueviolet !important;
+  border: #fff !important;
+}

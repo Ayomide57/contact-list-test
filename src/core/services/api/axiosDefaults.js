@@ -13,5 +13,5 @@ export const axiosInstance = () => {
       Authorization: `Bearer ${API_TOKEN}`,
     },
   });
-  return instance;t
+  return instance;
 };
